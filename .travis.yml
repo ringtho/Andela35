@@ -6,6 +6,12 @@ python:
 install:
   - pip install -r requirements.txt
 
+services:
+  - postgresql
+
+before script:
+  -psql -c "CREATE DATABASE test_db;" -U postgress
+
 script:
   - python -m pytest --cov
 
