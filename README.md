@@ -4,7 +4,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/ringtho/Andela35/badge.svg?branch=deploy)](https://coveralls.io/github/ringtho/Andela35?branch=deploy)
 
-<a href="https://codeclimate.com/github/ringtho/Andela35/maintainability"><img src="https://api.codeclimate.com/v1/badges/31df9071d7781d70b7de/maintainability" /></a>
+[![Maintainability](https://api.codeclimate.com/v1/badges/31df9071d7781d70b7de/maintainability)](https://codeclimate.com/github/ringtho/Andela35/maintainability)
 
 This repo is to help learners easily follow along during the session.
 
